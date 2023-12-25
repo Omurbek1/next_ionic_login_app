@@ -2,6 +2,14 @@
   "name": "google-auth",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Omurbek",
+    "url": "https://github.com/omurbek1",
+    "email": "omurbekmamytbekov545@gmail.com",
+    "username": "omurbekmamytbekov545",
+    "github": "omurbek1",
+    "twitter": "omurbek1"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
